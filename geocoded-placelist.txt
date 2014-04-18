@@ -1,0 +1,24 @@
+"Centraal Station, Brussel
+",50.846658,4.358515
+"Ridderschaplaan, 22 Brussel 
+",50.8430723,4.395834199999999
+"Claude Debussystraat, 24 1070 Anderlecht 
+",50.82822710000001,4.2948452
+"Overwinningsstraat, 52 B 1060, Sint-Gillis 
+",50.8313972,4.3472407
+"Vaderlandsplein 2, 1030, Schaarbeek 
+",50.8568638,4.3903538
+"Generaal Eenensstraat 98, 1030, Schaarbeek 
+",50.8694818,4.3794225
+"Rue de la Clinique, 51 1070, Anderlecht 
+",50.8410781,4.3324319
+"Steenweg op Gent, 120 1080, Sint-Jans-Molenbeek 
+",50.855141,4.3355299
+"Keizer Karellaan, 112, Ganshoren 
+",50.8694511,4.3093832
+"Processiestraat, 16 107, Anderlecht 
+",50.8339699,4.3058046
+"Klaverstraat, 50 1070 Anderlecht 
+",50.8196436,4.2904503
+"Fonsnylaan, 66 B2, 1060, Sint-Gillis 
+",50.8337332,4.335767
